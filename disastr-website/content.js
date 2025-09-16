@@ -1,6 +1,6 @@
 (function(){
   const KEYS = {
-    modules: 'content_modules',
+    modules: 'content_modules',//bla bla 
     completions: 'content_completions', // [{email, moduleId, completedAt}]
   };
 
